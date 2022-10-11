@@ -7,3 +7,4 @@ display first 10 lines of /etc/passwd
 displays third line of file iacta
 shell script containing text Best School
 a script that writes into the file ls_cwd_content the results of the command ls -la. If the file ls_cwd_content already exists,it should be over written.If it does not exist, create it
+script that duplicates last line of file iacta
