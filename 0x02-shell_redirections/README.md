@@ -9,3 +9,4 @@ shell script containing text Best School
 a script that writes into the file ls_cwd_content the results of the command ls -la. If the file ls_cwd_content already exists,it should be over written.If it does not exist, create it
 script that duplicates last line of file iacta
 a script that deletes all the regular files with a .js extesion that are present in the current directory and all its subfolders
+script that counts the number of directories and sub directories in the current directory
