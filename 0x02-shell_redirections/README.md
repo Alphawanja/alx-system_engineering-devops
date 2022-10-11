@@ -5,3 +5,4 @@ display content of /etc/passwd and /etc/hosts
 display last 10 lines of /etc/passwd
 display first 10 lines of /etc/passwd
 displays third line of file iacta
+shell script containing text Best School
