@@ -19,3 +19,4 @@ display all lines in the file /etc/passwd that do not contain "bin"
 display all lines of the file /etc/ssh/sshd_config starting with a letter
 replays all characters A and c from input to z and e respectively
 script that removes all letters c and C from input
+script that reverse its input
