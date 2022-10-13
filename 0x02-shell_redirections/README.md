@@ -20,3 +20,4 @@ display all lines of the file /etc/ssh/sshd_config starting with a letter
 replays all characters A and c from input to z and e respectively
 script that removes all letters c and C from input
 script that reverse its input
+script that displays all users and their home directory sorted by users
